@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MTech360
 - 👀 I’m interested in Python,SQL,Linux(WSL)
-- 🌱 I’m currently learning SQL, Python...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SQL, Python with package management knowhow.
+- 💞️ I’m looking to build build up a skill to be able to collaborate on projects
+
 - 📫 How to reach me ...
 
 <!---
